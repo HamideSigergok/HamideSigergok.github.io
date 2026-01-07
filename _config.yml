@@ -2,7 +2,7 @@
 title: Hamide
 subtitle: Sigergok
 email: youremailaddress@gmail.com
-description: mon portfolio kh/> ici je vous presenterez mes projets etc .
+description: mon portfolio /> ici je vous presenterez mes projets etc .
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
